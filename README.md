@@ -3,6 +3,7 @@
 
 ## Idea 💡
 
+
 We had in mind to build a bot to stay updated on the prices and upcoming releases of the sneakers.
 The biggest problem was finding the right API, but we managed to find a guy who did a huge job, put together: StockX FlightClub, Goat and Stadium Goods API, cool right?
 
